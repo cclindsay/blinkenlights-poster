@@ -12,4 +12,4 @@ The document is available in ODT and PDF formats, in both US Letter and A4 paper
 
 Both color and black and white versions have been produced.
 
-I hope this brings the same joy to my server room as it does to yours. :)
+I hope this brings the same joy to your server room as it does to mine. :)
