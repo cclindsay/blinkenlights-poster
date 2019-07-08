@@ -1,9 +1,10 @@
 # blinkenlights-poster
-*A modern recreation of the classic "Blinkenlights" poster, as described in [The Jargon File](http://catb.org/jargon/html/B/blinkenlights.html).*
+*A modern recreation of the classic "Blinkenlights" poster, as described in
+[The Jargon File](http://catb.org/jargon/html/B/blinkenlights.html).*
 
 I'm not particularly fluent in legalese, but I believe the original
-ideas and text of the "blinkenlights" and its incarnation as a poster
-to be in the public domain.
+ideas and text of the "blinkenlights" faxlore, as well as its incarnation
+in a poster format, to be in the public domain.
 
 I have set this text in a more contemporary font to try and maintain its
 simplicity and suitability in modern contexts. I have also made some
